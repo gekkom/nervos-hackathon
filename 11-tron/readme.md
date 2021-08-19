@@ -1,10 +1,10 @@
-1)  ![accountlist](./accountlist.png)
+1)  ![accountlist](./accountlist.PNG)
 
 2)  https://explorer.nervos.org/aggron/address/ckt1qyqpd83rw4s5kcv82w54g4z8c4af2feqee9svy8lwa
 
-3)  ![deposit](./deposit.png)
+3)  ![deposit](./deposit.PNG)
 
-4)  ![call](./call.png)
+4)  ![call](./call.PNG)
 
 5)  Write call transaction hash: 0x34b4ff12ed8d866784cc13bf71f71e4d6d676f753b9626f854ba6070c54555ac
 
